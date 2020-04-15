@@ -1,3 +1,5 @@
 # Germplasm Collections
 
-This Tripal module will provide TripalFields and Drupal Views to support germplasm collections in Tripal. It is currently in active development.
+## ARCHIVED
+
+This module has been moved into the [KP Germplasm package](https://github.com/UofS-Pulse-Binfo/kp_germplasm). Please access it there as all future development will take place there.
